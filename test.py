@@ -1,4 +1,6 @@
 print("Hello Git!")
 print("Edit Test")
 print("Branch Test")
-print("なんだこれは")
+print("面倒くさい")
+print("再度 Branch Test")
+print("Test of Branch")
